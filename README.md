@@ -7,7 +7,7 @@ Repository ini dibuat untuk membantu peserta memahami dasar-dasar Golang melalui
 
 ## 📂 Struktur Repository
 ```
-📁 belajar-golang-gdgoc-binus-2025
+📁 belajar-golang-gdgoc
 │── 📁 error-panic-recover    # *Materi error, panic, recover di Golang*
 │── 📁 function               # *Fungsi dan metode di Golang*
 │── 📁 pointer                # *Pemrograman Golang menggunakan pointer*
