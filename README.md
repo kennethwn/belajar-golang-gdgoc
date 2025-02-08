@@ -1,4 +1,3 @@
-cat <<EOL > README.md
 # Belajar Golang - GDGoC Binus Bandung 2025
 
 _Repository ini berisi materi dan contoh kode untuk belajar Golang dalam event **GDGoC Binus Bandung 2025**._
@@ -45,4 +44,3 @@ Repository ini menggunakan lisensi **MIT**. Bebas digunakan dan dimodifikasi unt
 ---
 
 **Happy Coding! 🚀**
-EOL
